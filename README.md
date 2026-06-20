@@ -1,134 +1,179 @@
-<h1 align="center">Md. Ariful Islam (Samrat)</h1>
+<!-- Header -->
+<div align="center">
 
-<p align="center">
-  <strong>DevOps Engineer · MLOps Engineer · Software Engineer</strong><br/>
-  <em>Building reliable infrastructure, one pipeline at a time.</em>
-</p>
+```
+╔══════════════════════════════════════════════════════════════╗
+║            MD. ARIFUL ISLAM  ·  SAMRAT                      ║
+║       DevOps Engineer  ·  MLOps Engineer  ·  SWE            ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <a href="https://linkedin.com/in/md-ariful-islam-samrat">LinkedIn</a> ·
-  <a href="mailto:arifulislamsamrat@gmail.com">Email</a> ·
-  <a href="https://poridhi.io">Poridhi.io</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ariful-islam-samrat)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifulislamsamrat@gmail.com)
+[![Poridhi](https://img.shields.io/badge/Poridhi.io-1a1a2e?style=for-the-badge&logo=bookstack&logoColor=white)](https://poridhi.io)
 
----
-
-## About Me
-
-Dedicated DevOps Engineer with **3+ years of experience** in cloud infrastructure, microservices architecture, and backend development. Currently working at **Poridhi.io** — building production-grade CI/CD pipelines, deploying on AWS, and creating **150+ hands-on technical labs** for DevOps & MLOps learners.
-
-- 🌐 Deployed **100+ production websites** on self-managed Kubernetes
-- 🏗️ Built CI/CD pipelines that reduced release time by **60%**
-- 📡 Achieved **99.9% uptime** with Prometheus + Grafana monitoring
-- ✍️ Created **150+ hands-on labs** on Linux, containerization & cloud deployment
+</div>
 
 ---
 
-## Tech Stack
+<!-- About -->
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=arifulislamsamrat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 
-**Cloud & Infrastructure**
+### `$ whoami`
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+```yaml
+name     : Md. Ariful Islam (Samrat)
+role     : DevOps Engineer @ Poridhi.io
+location : Dhaka, Bangladesh
+focus    : Cloud Infrastructure · CI/CD · K8s
+labs     : 150+ hands-on labs authored
+sites    : 100+ production deployments
+uptime   : 99.9% across managed workloads
+```
 
-**Containers & Orchestration**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
-
-**CI/CD & Monitoring**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A623?style=flat-square&logo=grafana&logoColor=white)
-
-**Languages**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**Backend & Databases**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<br clear="right"/>
 
 ---
 
-## Featured Projects
+<!-- Stack -->
+### `$ cat tech-stack.yaml`
 
-### 🏠 Fajr Web Services — On-Premise Hosting Platform
-Private cloud hosting on **Proxmox VE** with self-managed Kubernetes, automated VM provisioning via Terraform, and full Prometheus + Grafana observability.
+```yaml
+cloud:
+  - AWS (EC2, ECS, EKS, S3, RDS, VPC, IAM, CloudWatch)
+  - Cloudflare · Proxmox VE · KVM · LXC
 
-- ⚡ 80% reduction in server provisioning time via Terraform + Ansible automation
-- ✅ 99.9% uptime with snapshot-based backup and alerting
-- 🌐 10+ production websites on zero-downtime rolling deployments
+iac:
+  - Terraform · Ansible · CloudFormation · Pulumi
 
-`Proxmox` `Kubernetes` `Terraform` `Ansible` `Prometheus` `Grafana` `Cloudflare`
+containers:
+  - Docker · Kubernetes · Helm · NGINX Ingress
+
+cicd:
+  - GitHub Actions · GitLab CI · Jenkins
+  - Trivy (Vulnerability Scanning)
+
+observability:
+  - Prometheus · Grafana · Loki · ELK Stack · PromQL
+
+networking:
+  - TCP/IP · DNS · VPN · Reverse Proxy
+  - Load Balancing · SSL/TLS · RBAC
+
+languages:
+  - JavaScript (90%) · C (90%) · Assembly (85%)
+  - Python (80%) · Java (80%) · C++ (80%)
+  - Shell (70%) · Go (60%) · Ruby (60%)
+```
 
 ---
 
-### 🤖 MLOps CI/CD Pipeline — GitHub Actions + AWS
-Cloud-native MLOps pipeline with IaC and containerized microservices. Full CI/CD from code push to AWS deployment with real-time monitoring.
+<!-- Stats Row -->
+<div align="center">
 
-- 🔄 100% automated deployment with pytest + Postman test coverage
-- 📦 Multi-stage Docker builds + Pulumi IaC (VPC/EC2/ECR)
-- 📊 Prometheus + Grafana observability integrated end-to-end
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifulislamsamrat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=arifulislamsamrat&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
-`Python` `Flask` `Docker` `AWS` `Pulumi` `GitHub Actions` `Prometheus` `Grafana`
+</div>
 
 ---
 
-### 🔐 Login Monitoring & Alert System
-Containerized real-time login activity monitoring with Prometheus alerting on unauthorized access attempts.
+<!-- Projects -->
+### `$ ls -la projects/`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏗️ Fajr Web Services**
+*On-Premise Private Cloud Hosting*
+
+> Self-managed Kubernetes cluster on Proxmox VE with full IaC provisioning and observability stack for multi-tenant workloads.
+
+- ⚡ **80%** faster server provisioning via Terraform + Ansible
+- 📡 **99.9%** uptime with Prometheus alerting
+- 🌐 **10+** production sites, zero-downtime rolling deploys
+
+`Proxmox` `K8s` `Terraform` `Ansible` `Grafana`
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 MLOps CI/CD Pipeline**
+*GitHub Actions + AWS*
+
+> Cloud-native MLOps pipeline with IaC, containerized microservices, and end-to-end automated deployment to AWS.
+
+- 🔄 **100%** automated deploy with pytest + Postman
+- 📦 Multi-stage Docker builds + Pulumi (VPC/EC2/ECR)
+- 📊 Prometheus + Grafana observability integrated
+
+`Python` `Docker` `AWS` `Pulumi` `GitHub Actions`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔐 Login Monitoring & Alert System**
+*Real-time Security Observability*
+
+> Containerized system for login activity monitoring with Prometheus alerting on unauthorized access attempts via custom PromQL queries.
 
 `Docker` `Kubernetes` `Prometheus` `PromQL`
 
----
+</td>
+<td width="50%" valign="top">
 
-## GitHub Stats
+**📚 150+ Technical Labs**
+*Poridhi.io Curriculum*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifulislamsamrat&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifulislamsamrat&layout=compact&theme=default&hide_border=true" height="160" />
-</p>
+> Authored hands-on labs covering Linux, containerization, Kubernetes, AWS deployments, CI/CD pipelines, and MLOps workflows for thousands of learners.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifulislamsamrat&theme=default&hide_border=true" height="160" />
-</p>
+`DevOps` `MLOps` `AWS` `K8s` `CI/CD`
 
----
-
-## Experience
-
-| Role | Company | Period |
-|---|---|---|
-| DevOps Engineer | Poridhi.io, Dhaka | Jan 2024 – Present |
-| Teaching Assistant (DevOps) | Poridhi.io, Dhaka | Feb 2023 – Dec 2023 |
+</td>
+</tr>
+</table>
 
 ---
 
-## Education
+<!-- Experience -->
+### `$ cat experience.log`
 
-**B.Sc. in Computer Science & Engineering**  
-Green University of Bangladesh · CGPA 3.33/4.00 · Graduated 2023  
-*Thesis: Blockchain Technology Applications in the Oil & Gas Industry*
+```
+[2024-01 → present]  DevOps Engineer          @ Poridhi.io · Dhaka, BD
+                     ├─ Microservices on AWS (EC2, ECS, EKS)
+                     ├─ CI/CD pipelines → 60% faster releases
+                     ├─ Terraform + CloudFormation IaC
+                     └─ Prometheus/Grafana → 99.9% uptime
+
+[2023-02 → 2023-12]  Teaching Assistant       @ Poridhi.io · Dhaka, BD
+                     ├─ DevOps concepts & lab facilitation
+                     └─ 1-on-1 student support & material prep
+```
 
 ---
 
-<p align="center">
-  <em>Open to DevOps, MLOps & Cloud Infrastructure opportunities · Available on Upwork</em>
-</p>
+<!-- Education -->
+### `$ cat education.txt`
+
+```
+B.Sc. Computer Science & Engineering
+Green University of Bangladesh · CGPA 3.33/4.00 · 2023
+Thesis → Blockchain Technology Applications in Oil & Gas Industry
+```
+
+---
+
+<!-- Footer -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=arifulislamsamrat&color=58a6ff&style=flat-square&label=profile+views)
+
+```
+Open to DevOps · Cloud Infrastructure · MLOps opportunities
+```
+
+</div>
